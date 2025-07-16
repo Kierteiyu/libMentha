@@ -1,0 +1,5 @@
+Since libMentha is header only, all you have to do is add lib_mentha_include to your include directories.
+
+If you aren't using serialization you should define CNN_NO_SERIALIZATION. This will tell libMentha to not compile serialization.
+
+If you are using serialization, you must also add cereal to your include directories.
