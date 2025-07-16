@@ -5,7 +5,7 @@
 ## Planned Features
 
 1. **GPU Support** via Vulkan Compute via [Kompute](https://kompute.cc)
-2. **More Layers** (Open an issue to request a layer. It might take a while as I have other priorities right now)
+2. **More Layers** (Open an issue to request a layer)
 3. **ONNX Saving and Loading**
 4. **Improved Serialization System**
 
@@ -17,7 +17,7 @@ This version is essentially a cleaner version of the tiny-dnn source tree, with 
 
 ---
 
-## Upcoming Version: `v0.4.0`
+## Upcoming Version: `v0.3.0/v0.2.1`
 
 Planned improvements:
 
