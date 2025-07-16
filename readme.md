@@ -32,7 +32,7 @@ Planned improvements:
 
 Place `lib_mentha_include` in an accessible location on your drive. Configure your build system to include `lib_mentha_include`. If you want serialization, do the same with [cereal](https://github.com/USCiLab/cereal) according to their instructions. If you don't want serialization, define `CNN_NO_SERIALIZATION`.
 
---
+---
 
 ## Notes
 
