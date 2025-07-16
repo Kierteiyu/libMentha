@@ -21,8 +21,8 @@
 #include <utility>
 #include <vector>
 
-#include "lib_mentha/xtensor/xarray.hpp"
-#include "lib_mentha/xtensor/xview.hpp"
+#include "lib_mentha/xtensor/containers/xarray.hpp"
+#include "lib_mentha/xtensor/views/xview.hpp"
 
 #include "lib_mentha/config.h"
 

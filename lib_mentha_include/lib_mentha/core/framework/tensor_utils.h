@@ -13,7 +13,7 @@
 #include <limits>
 #include <numeric>  // std::accumulate
 
-#include "lib_mentha/xtensor/xio.hpp"
+#include "lib_mentha/xtensor/io/xio.hpp"
 
 #include "lib_mentha/core/framework/tensor.h"
 
