@@ -13,7 +13,7 @@
 
 ## Current Version: `v0.2.0`
 
-This version is essentially a cleaner version of the tiny-dnn source tree, with C++ 20 support.
+This version is essentially a cleaner version of the tiny-dnn source tree, with C++ 20 support (and presumably C++ 23 and 26 support; untested).
 
 ---
 
