@@ -6,25 +6,22 @@
 
 1. **GPU Support** via Vulkan Compute via [Kompute](https://kompute.cc)
 2. **More Layers** (Open an issue to request a layer. It might take a while as I have other priorities right now)
-3. **C++ 20/23/26(?) Forward Compatibility**
-   - Currently, **libMentha** works up to **C++17**
-   - `lib_mentha_include/lib_mentha/xtensor` files currently cause issues with **C++20** and onwards
-4. **ONNX Saving and Loading**
-5. **Improved Serialization System**
+3. **ONNX Saving and Loading**
+4. **Improved Serialization System**
 
 ---
 
-## Current Version: `v0.1.0`
+## Current Version: `v0.2.0`
 
-This version is essentially a cleaner version of the tiny-dnn source tree.
+This version is essentially a cleaner version of the tiny-dnn source tree, with C++ 20 support.
 
 ---
 
-## Upcoming Version: `v0.2.0`
+## Upcoming Version: `v0.4.0`
 
 Planned improvements:
 
-- Support for **C++20** (and maybe C++23) forward compatibility
+- Unknown
 
 ---
 
