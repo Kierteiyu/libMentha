@@ -22,7 +22,7 @@ This version is essentially a cleaner version of the tiny-dnn source tree, with 
 
 Planned improvements:
 
-- Eigen
+- Eigen backend
 
 ---
 
